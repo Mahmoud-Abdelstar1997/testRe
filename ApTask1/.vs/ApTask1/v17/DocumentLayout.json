@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|d:\\1_iti_minia.net23-24q3\\20-asp.netcore (mvc \u0026 webapi)\\graduationprogect\\code\\aptask1\\aptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|solutionrelative:aptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|d:\\1_iti_minia.net23-24q3\\20-asp.netcore (mvc \u0026 webapi)\\graduationprogect\\code\\aptask1\\aptask1\\admincontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|solutionrelative:aptask1\\admincontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|d:\\1_iti_minia.net23-24q3\\20-asp.netcore (mvc \u0026 webapi)\\graduationprogect\\code\\aptask1\\aptask1\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|solutionrelative:aptask1\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|d:\\1_iti_minia.net23-24q3\\20-asp.netcore (mvc \u0026 webapi)\\graduationprogect\\code\\aptask1\\aptask1\\paymentincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|solutionrelative:aptask1\\paymentincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|d:\\1_iti_minia.net23-24q3\\20-asp.netcore (mvc \u0026 webapi)\\graduationprogect\\code\\aptask1\\aptask1\\providercontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69AA05-4B37-431E-953F-2A1D7663FA74}|ApTask1\\ApTask1.csproj|solutionrelative:aptask1\\providercontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProviderContract.cs",
+              "DocumentMoniker": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\ProviderContract.cs",
+              "RelativeDocumentMoniker": "ApTask1\\ProviderContract.cs",
+              "ToolTip": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\ProviderContract.cs",
+              "RelativeToolTip": "ApTask1\\ProviderContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:26:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentIncome.cs",
+              "DocumentMoniker": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\PaymentIncome.cs",
+              "RelativeDocumentMoniker": "ApTask1\\PaymentIncome.cs",
+              "ToolTip": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\PaymentIncome.cs",
+              "RelativeToolTip": "ApTask1\\PaymentIncome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:25:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\Discount.cs",
+              "RelativeDocumentMoniker": "ApTask1\\Discount.cs",
+              "ToolTip": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\Discount.cs",
+              "RelativeToolTip": "ApTask1\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:25:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminContract.cs",
+              "DocumentMoniker": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\AdminContract.cs",
+              "RelativeDocumentMoniker": "ApTask1\\AdminContract.cs",
+              "ToolTip": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\AdminContract.cs",
+              "RelativeToolTip": "ApTask1\\AdminContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:25:41.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\Program.cs",
+              "RelativeDocumentMoniker": "ApTask1\\Program.cs",
+              "ToolTip": "D:\\1_ITI_Minia.net23-24Q3\\20-Asp.NetCore (MVC \u0026 WebAPI)\\GraduationProgect\\code\\ApTask1\\ApTask1\\Program.cs",
+              "RelativeToolTip": "ApTask1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:32:02.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
